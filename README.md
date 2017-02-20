@@ -1,2 +1,2 @@
-# klang-games.github.io
+# seed-universe.com
 Seed Langing Page
